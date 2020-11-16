@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menu with Radio Button</string>
+
+    <string name="wifi">Wifi</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="mobile">Mobile</string>
+</resources>
